@@ -1,0 +1,26 @@
+# Core runtime (Python 3.11)
+pydantic>=2.5.0,<3.0.0
+pydantic-settings>=2.1.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+typer>=0.9.0,<1.0.0
+rich>=13.7.0,<15.0.0
+
+# Document processing (implement in M1)
+pymupdf>=1.23.0,<2.0.0
+pdf2image>=1.17.0,<2.0.0
+pytesseract>=0.3.10,<1.0.0
+Pillow>=10.2.0,<12.0.0
+
+# Retrieval (implement in M2)
+sentence-transformers>=2.3.0,<4.0.0
+chromadb>=0.4.22,<1.0.0
+rank-bm25>=0.2.2,<1.0.0
+numpy>=1.26.0,<3.0.0
+
+# Generation & learning
+google-generativeai>=0.8.0,<1.0.0
+sqlalchemy>=2.0.0,<3.0.0
+
+# Dev / tests (optional)
+# pytest>=7.4.0
+# ruff>=0.2.0
