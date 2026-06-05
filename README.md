@@ -274,3 +274,26 @@ The architecture supports comprehensive testing through:
 - Pydantic models simplify test data construction
 - SQLite in-memory for learning store tests
 - ChromaDB ephemeral mode for retrieval tests
+
+
+## Results
+
+
+<img width="1548" height="355" alt="WhatsApp Image 2026-06-05 at 10 36 32" src="https://github.com/user-attachments/assets/f6c47be0-e2a5-4cca-8251-0ce86bcff3b7" />
+
+
+
+<img width="1537" height="751" alt="WhatsApp Image 2026-06-05 at 10 37 54" src="https://github.com/user-attachments/assets/1b3e9ec4-3df4-4b35-a8b3-602ca65fbd6b" />
+
+
+<img width="1554" height="944" alt="WhatsApp Image 2026-06-05 at 10 38 25" src="https://github.com/user-attachments/assets/9d29731d-b653-4ec6-a188-2c20f6d19c5b" />
+
+
+<img width="1576" height="520" alt="WhatsApp Image 2026-06-05 at 10 39 36" src="https://github.com/user-attachments/assets/83dcf394-cc43-40a7-bd75-447ce17507a6" />
+
+
+<img width="1551" height="166" alt="WhatsApp Image 2026-06-05 at 10 40 08" src="https://github.com/user-attachments/assets/0b114c4a-df59-4bd4-8e77-40bd28373968" />
+
+
+
+
